@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NightfallSmp-9xFw.aternos.me",
-    "port": 28612,
+    "ip": "nightfalsmp.minekeep.gg",
+    "port": 25565,
     "version": "",
     "try-creative": true
   },
